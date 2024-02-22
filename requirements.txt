@@ -1,0 +1,4 @@
+Django==4.2.7
+nltk==3.8.1
+sumy==0.11.0
+symspellpy==6.7.7
